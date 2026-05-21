@@ -103,7 +103,7 @@ button:hover {
 <!-- SISTEMA -->
 <div id="app" class="container tela">
 
-    <h2>🏫 Sistema Escolar</h2>
+    <h2>🏫 Sistema Escolar Alceste</h2>
 
     <div class="menu">
         <button onclick="mostrar('notas')">Notas</button>
